@@ -13,6 +13,7 @@ REQUIREMENTS:
 2. A search bar to search for games by Topic, Level or Subject
 3. A filter to filter Games by Groups and Levels
 4. For each game, display the title, discription and image
+5. Animated buttons example Login button expands and contracts when you click on it
 
 
 Deadline: It is expected that the task is completed within 3-4 hours
